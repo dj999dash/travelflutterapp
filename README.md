@@ -1,6 +1,6 @@
-# travelapp
+# Travelapp
 
-A Travel application using flutter.
+A Travel application using flutter with an amazing UI.
 
 ## Getting Started
 
